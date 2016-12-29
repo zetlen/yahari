@@ -1,0 +1,13 @@
+*.crt
+*.key
+*.log
+*.swp
+.DS_Store
+node_modules
+npm-debug.log
+REVISION
+
+dist/*
+!dist/index.html
+
+scripts/test.es5.js
